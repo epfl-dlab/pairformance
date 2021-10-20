@@ -1,0 +1,6 @@
+include *.txt
+include LICENSE
+recursive-include examples *.csv
+recursive-include examples *.ipynb
+recursive-include examples *.py
+recursive-include tests *.py

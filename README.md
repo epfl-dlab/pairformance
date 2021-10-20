@@ -35,7 +35,12 @@ The pairformance tool takes the pairing into account and provide:
 
 ## Default Usage
 
-Suppose we have an evaluation data frame with evaluation scores for several systems
+First, install pairformance from pip - [link](https://pypi.org/project/pairformance/0.0.1/)
+```
+pip install pairformance==0.0.1
+```
+
+Now, suppose we have an evaluation data frame with evaluation scores for several systems
 (one column per system, one row per test instance):
 
 ```python

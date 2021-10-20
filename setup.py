@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='pairformance',
-    version='0.0.7',
+    version='0.0.1',
     description='Tool to perform paired evaluation of automatic systems.',
     long_description=long_description,
     long_description_content_type="text/markdown",
